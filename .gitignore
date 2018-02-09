@@ -1,4 +1,2 @@
-# ignore all files in the <dir>/ directory
-git rm --cached -r n-03-14-v8-update/ n-3-10-refactor/  n-3-11-removing-note/ n-3-12-reading-note/ n-3-15-listing-notes/ n-3-16-advanced-yargs/ n-3-17-arrow-functions/ n-3-3-require-own-files/ n-3-4-3rd-party-modules/ n-3-5-global-modules/ n-3-6-getting-input/ n-3-7-yargs/ n-3-8-json/ n-3-9-adding-note/ 
-
+# ignore all files in node_modules directory and subdirectory
 node_modules/
